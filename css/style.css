@@ -1066,13 +1066,20 @@ hr.separator {
   * Video Embed
   **/
 @media screen and(max-width: 670px){
-  .video-embed{
+  .no-padding #topphone{
+    width: 80%;
+  }
+  .video-embed iframe{
     width: 90%;
     padding-right: 10px;
+    margin-right: auto;
   }
 }
-@media screen and(max-width: 320px){
-  .video-embed{
-    width: 70%;
+@media (max-width: 320px){
+  .no-padding #topphone {
+    width: 80%;
+  }
+  .video-embed iframe{
+    width: 100%;
   }
 }
