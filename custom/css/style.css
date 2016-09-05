@@ -322,3 +322,12 @@ body.about #features {
    bottom: 30px;
  }
 }
+
+
+/*video embed*/
+@@media (max-width: 600px) {
+  .video-embed{
+    width: 340px;
+  }
+
+}
