@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
+@@import url(https://fonts.googleapis.com/css?family=Quicksand);
 /**colors**/
 .red {
   color: #f55b63;
@@ -740,9 +741,9 @@ hr.separator {
 }
 
 /*Find out more*/
-/*.fa-caret-right i{
+.fa-caret-right i{
   font-size: 14px;
-}*/
+}
 .feature-box {
   margin-bottom: 40px;
   text-align: center;
@@ -1059,5 +1060,19 @@ hr.separator {
 
   .footer .footer-bottom .list-inline li a {
     font-size: 12px;
+  }
+}
+/**
+  * Video Embed
+  **/
+@media screen and(max-width: 670px){
+  .video-embed{
+    width: 90%;
+    padding-right: 10px;
+  }
+}
+@media screen and(max-width: 320px){
+  .video-embed{
+    width: 70%;
   }
 }
