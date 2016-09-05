@@ -1,4 +1,4 @@
-/* 
+/*
     Created on : 2 Oct, 2015, 7:52:36 AM
     Author     : RAKESH
     File       : Assan  landing template
@@ -739,6 +739,10 @@ hr.separator {
   background-color: #fff;
 }
 
+/*Find out more*/
+/*.fa-caret-right i{
+  font-size: 14px;
+}*/
 .feature-box {
   margin-bottom: 40px;
   text-align: center;
