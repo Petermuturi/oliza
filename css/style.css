@@ -1065,21 +1065,21 @@ hr.separator {
 /**
   * Video Embed
   **/
-@media screen and(max-width: 670px){
+@media (min-width: 520px) and(max-width: 670px){
   .no-padding #topphone{
     width: 80%;
   }
   .video-embed iframe{
-    width: 90%;
+    width: 60px !important;
     padding-right: 10px;
     margin-right: auto;
   }
 }
-@media (max-width: 320px){
+@media (min-width: 320px) and(max-width:475px){
   .no-padding #topphone {
-    width: 80%;
+    width: 80% !important;
   }
   .video-embed iframe{
-    width: 100%;
+    width: 100px;
   }
 }
