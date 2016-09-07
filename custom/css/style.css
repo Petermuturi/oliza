@@ -332,10 +332,23 @@ body.about #features {
   }
 
 }
+@media screen and (max-width: 360px) {
+  .ocharge-features.active{
+    background-color: transparent !important;
+  }
 
-@media (min-width: 320px) {
+}
+@media screen and (max-width: 767px){
+  .ocharge-features.active{
+    background-color: transparent;
+  }
+}
+@media (max-width: 320px) {
   .video-embed{
     width: 240px;
+  }
+  .ocharge-features.active{
+    background-color: transparent !important;
   }
 
 }
