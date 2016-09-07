@@ -353,3 +353,10 @@ body.about #features {
   }
 
 }
+
+
+#find-out{
+  text-transform: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+}
