@@ -359,6 +359,10 @@ body.about #features {
 
 }
 
+/**
+ ** Round Buttons
+ **/
+
 
 #find-out, #send-me{
   text-transform: none;
@@ -370,3 +374,11 @@ body.about #features {
 p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
   font-family: 'Quicksand', sans-serif;
 }
+
+/**
+ ** In the News
+ **/
+
+ #news img{
+   opacity: 0;
+ }
