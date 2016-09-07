@@ -181,7 +181,11 @@ h2.otitle,
 p.powered {
 	color:#a33eff;
 	font-size:18px;
+
 }
+/*.powered img{
+  background-color: purple;
+}*/
 
 .footer a {
 	color: #666;
@@ -332,13 +336,13 @@ body.about #features {
   }
 
 }
-@media screen and (max-width: 360px) {
+@media (max-width: 360px) {
   .ocharge-features.active{
     background-color: transparent !important;
   }
 
 }
-@media screen and (max-width: 767px){
+@media (max-width: 767px){
   .ocharge-features.active{
     background-color: transparent;
   }
