@@ -360,8 +360,13 @@ body.about #features {
 }
 
 
-#find-out{
+#find-out, #send-me{
   text-transform: none;
   font-family: 'Quicksand', sans-serif;
   font-size: 18px;
+}
+
+
+p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
+  font-family: 'Quicksand', sans-serif;
 }
