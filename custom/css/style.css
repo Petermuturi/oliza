@@ -92,10 +92,15 @@ h2.otitle,
 }
 
 .biggerfontp {
-	font-size: 30px!important;
+	font-size: 24px!important;
     line-height: 40px!important;
 }
 
+.biggerfontp strong{
+  font-size: 30px;
+  font-weight: 800;
+  color: black;
+}
 .kiasifontp {
 	font-size: 20px!important;
     line-height: 30px!important;
@@ -360,3 +365,27 @@ body.about #features {
 
 
 }
+
+/**
+ ** Round Buttons
+ **/
+
+
+#find-out, #send-me{
+  text-transform: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+}
+
+
+p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+/**
+ ** In the News
+ **/
+
+ #news img{
+   opacity: 1.2;
+ }
