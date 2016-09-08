@@ -1101,4 +1101,7 @@ hr.separator {
   .text-center img{
     padding-right: 30px !important;
   }
+  .gplay{
+    width: 190px !important;
+  }
 }
