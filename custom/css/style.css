@@ -396,10 +396,22 @@ p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-feature
  #news img{
    opacity: 1.2;
  }
-#news, .otitle{
+#news, .otitle, h3.otitle{
   font-family: 'Quicksand', "Arimo", sans-serif;
 
 }
 h2.otitle{
+  font-weight: bold !important;
+}
+
+#africa {
+  font-family: 'Quicksand', "Arimo", sans-serif;
+}
+/*Features*/
+.ocharge-features h3, p{
+  font-family: 'Quicksand', "Arimo", sans-serif;
+}
+
+.ocharge-features h3{
   font-weight: bold;
 }
