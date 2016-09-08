@@ -301,7 +301,7 @@ hr.separator {
     position: absolute;
     left: 50%;
     margin-left: -65px !important;
-    top: 10px;
+    
   }
 
   .header-v1.sticky .navbar-brand {
