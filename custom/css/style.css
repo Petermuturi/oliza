@@ -377,6 +377,10 @@ body.about #features {
   font-size: 18px;
 }
 
+#find-out{
+  border-radius: 38px !important;
+  box-shadow: 0 4px rgba(0,0,0,0.3);
+}
 
 p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
   font-family: 'Quicksand', sans-serif;
