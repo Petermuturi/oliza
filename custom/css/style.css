@@ -398,4 +398,8 @@ p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-feature
  }
 #news, .otitle{
   font-family: 'Quicksand', "Arimo", sans-serif;
+
+}
+h2.otitle{
+  font-weight: bold;
 }
