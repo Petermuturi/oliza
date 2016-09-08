@@ -78,6 +78,7 @@ body,
 h2.otitle,
 .ocharge-features h3 {
 	color:#ff6b64;
+  text-transform: none;
 }
 
 .toggla {
@@ -385,6 +386,7 @@ body.about #features {
 
 p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
   font-family: 'Quicksand', sans-serif;
+  color: #696969;
 }
 
 /**
@@ -394,3 +396,6 @@ p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-feature
  #news img{
    opacity: 1.2;
  }
+#news, .otitle{
+  font-family: 'Quicksand', "Arimo", sans-serif;
+}
