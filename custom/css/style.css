@@ -382,6 +382,7 @@ body.about #features {
   border-radius: 38px !important;
   box-shadow: 0 4px rgba(0,0,0,0.3);
   margin-bottom: 30px !important;
+  white-space: nowrap;
 }
 
 p.ocharge-mobile-features1, p.ocharge-mobile-features2, p.ocharge-mobile-features3 {
