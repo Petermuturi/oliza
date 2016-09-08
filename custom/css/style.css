@@ -416,3 +416,12 @@ h2.otitle{
 .ocharge-features h3{
   font-weight: bold;
 }
+
+/*Footer tags*/
+
+.footer h2, ul {
+  font-family: 'Quicksand', "Arimo", sans-serif;
+}
+.footer h2{
+  font-weight: bold;
+}
