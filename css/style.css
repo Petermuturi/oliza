@@ -1096,7 +1096,9 @@ hr.separator {
 }
 
 
-/*Top Phone*/
-#img-topphone {
-  padding-bottom: 0px !important;
+/*Stuff Image*/
+@media  (min-width: 320px){
+  .text-center img{
+    padding-right: 30px !important;
+  }
 }
