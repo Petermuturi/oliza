@@ -337,6 +337,9 @@ body.about #features {
   .ocharge-features.active{
     background-color: transparent !important;
   }
+  .navbar-brand img{
+    width: 170px !important;
+  }
 
 }
 @media (max-width: 767px){
@@ -351,5 +354,9 @@ body.about #features {
   .ocharge-features.active{
     background-color: transparent !important;
   }
+  .navbar-brand img{
+    width: 170px !important;
+  }
+
 
 }
