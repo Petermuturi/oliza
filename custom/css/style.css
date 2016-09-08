@@ -137,10 +137,10 @@ h2.otitle,
 
 @media (max-width: 299px) {
 	.header-v1 img {
-	    max-width:40%;
+	    max-width:60%;
 	}
 	.header-v1 img.gplay {
-	    max-width:0px;
+	    max-width:0;
 	}
 
 	.header-v1 .navbar-toggle {
@@ -359,8 +359,8 @@ body.about #features {
   .ocharge-features.active{
     background-color: transparent !important;
   }
-  .navbar-brand img{
-    width: 170px !important;
+  .whiteone, .redone{
+    width: 60% !important;
   }
 
 
